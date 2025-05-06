@@ -12,4 +12,5 @@ export class AppComponent {
   title = 'my-app';
   count = 0;
   a = 6;
+  b = 10;
 }
