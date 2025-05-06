@@ -11,4 +11,5 @@ import { ProfileComponent } from './profile/profile.component';
 export class AppComponent {
   title = 'my-app';
   count = 0;
+  a = 6;
 }
